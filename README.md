@@ -1,5 +1,5 @@
-Download and drag script directly in your resource the script does ned any framework to work !
+1. Download and drag script directly in your resource the script does ned any framework to work !
 
-1 the script have  alloweddiferencetime  config in the server.lua / i recomend to dont change anything from file !
+2. the script have  alloweddiferencetime  config in the server.lua / i recomend to dont change anything from file !
 
-2 the script are tested and is work normally !
+3. the script are tested and is work normally !
